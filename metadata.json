@@ -1,0 +1,6 @@
+{
+  "name": "CLS.com",
+  "description": "Plataforma de educação democrática, gamificada e acessível com cursos curtos, conquistas, certificados e modo offline para smartphones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
